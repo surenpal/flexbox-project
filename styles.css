@@ -1,0 +1,23 @@
+.container {
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  text-align: center;
+}
+
+.price-card {
+  margin: 30px;
+  width: 300px;
+  background-color: beige;
+  border-radius: 5px;
+}
+.btn {
+  background-color: crimson;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+ul li {
+  list-style: none;
+}
